@@ -1,0 +1,25 @@
+div {
+  max-width: 400px;
+  margin: 40px auto;
+  padding: 25px;
+  border: 1px solid #eee;
+  background: #f9f9f9;
+  border-radius: 8px;
+}
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+li {
+  margin: 8px 0;
+  display: flex;
+  justify-content: space-between;
+}
+input {
+  padding: 6px;
+  width: 65%;
+}
+button {
+  margin-left: 8px;
+  padding: 6px 10px;
+}
